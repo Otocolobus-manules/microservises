@@ -9,4 +9,4 @@ router.include_router(articles_router)
 router.include_router(users_router)
 router.include_router(comments_router)
 
-__all__ = ["router"]
+__all__ = ["router"] 
